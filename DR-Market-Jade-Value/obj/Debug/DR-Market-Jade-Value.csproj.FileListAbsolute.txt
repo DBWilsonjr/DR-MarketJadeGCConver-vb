@@ -1,0 +1,18 @@
+C:\Users\dbwilson\Desktop\DR-Market-Jade-Value\DR-Market-Jade-Value\bin\Debug\DR-Market-Jade-Value.exe.config
+C:\Users\dbwilson\Desktop\DR-Market-Jade-Value\DR-Market-Jade-Value\obj\Debug\DR-Market-Jade-Value.csprojResolveAssemblyReference.cache
+C:\Users\dbwilson\Desktop\DR-Market-Jade-Value\DR-Market-Jade-Value\obj\Debug\DR_Market_Jade_Value.Form1.resources
+C:\Users\dbwilson\Desktop\DR-Market-Jade-Value\DR-Market-Jade-Value\obj\Debug\DR_Market_Jade_Value.Properties.Resources.resources
+C:\Users\dbwilson\Desktop\DR-Market-Jade-Value\DR-Market-Jade-Value\obj\Debug\DR-Market-Jade-Value.csproj.GenerateResource.Cache
+C:\Users\dbwilson\Desktop\DR-Market-Jade-Value\DR-Market-Jade-Value\bin\Debug\DR-Market-Jade-Value.exe
+C:\Users\dbwilson\Desktop\DR-Market-Jade-Value\DR-Market-Jade-Value\bin\Debug\DR-Market-Jade-Value.pdb
+C:\Users\dbwilson\Desktop\DR-Market-Jade-Value\DR-Market-Jade-Value\obj\Debug\DR-Market-Jade-Value.exe
+C:\Users\dbwilson\Desktop\DR-Market-Jade-Value\DR-Market-Jade-Value\obj\Debug\DR-Market-Jade-Value.pdb
+J:\Personal Projects\Gaming Related\Dungeon Rush Projects\DR-Market-Jade-Value\DR-Market-Jade-Value\bin\Debug\DR-Market-Jade-Value.exe.config
+J:\Personal Projects\Gaming Related\Dungeon Rush Projects\DR-Market-Jade-Value\DR-Market-Jade-Value\obj\Debug\DR-Market-Jade-Value.exe
+J:\Personal Projects\Gaming Related\Dungeon Rush Projects\DR-Market-Jade-Value\DR-Market-Jade-Value\obj\Debug\DR-Market-Jade-Value.pdb
+J:\Personal Projects\Gaming Related\Dungeon Rush Projects\DR-Market-Jade-Value\DR-Market-Jade-Value\bin\Debug\DR-Market-Jade-Value.exe
+J:\Personal Projects\Gaming Related\Dungeon Rush Projects\DR-Market-Jade-Value\DR-Market-Jade-Value\bin\Debug\DR-Market-Jade-Value.pdb
+J:\Personal Projects\Gaming Related\Dungeon Rush Projects\DR-Market-Jade-Value\DR-Market-Jade-Value\obj\Debug\DR-Market-Jade-Value.csprojResolveAssemblyReference.cache
+J:\Personal Projects\Gaming Related\Dungeon Rush Projects\DR-Market-Jade-Value\DR-Market-Jade-Value\obj\Debug\DR_Market_Jade_Value.Form1.resources
+J:\Personal Projects\Gaming Related\Dungeon Rush Projects\DR-Market-Jade-Value\DR-Market-Jade-Value\obj\Debug\DR_Market_Jade_Value.Properties.Resources.resources
+J:\Personal Projects\Gaming Related\Dungeon Rush Projects\DR-Market-Jade-Value\DR-Market-Jade-Value\obj\Debug\DR-Market-Jade-Value.csproj.GenerateResource.Cache
